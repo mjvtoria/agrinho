@@ -10,8 +10,9 @@
 body {
     font-family: josefin-sans;
     line-height: 1.6;
-    margin: 0;
+    margin: 5;
     padding: 0;
+    background-color: var(--cor-de-fundo);
 }
 header {
     background:var(--cor-de-fundo);

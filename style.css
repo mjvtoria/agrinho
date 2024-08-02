@@ -24,14 +24,14 @@ header {
 }
 
 
-.CAMPO {
+H2{
     font-family: Josefin Sans;
     color: var(--sub-titulo);
     padding: 40 0;
 
 }
 
-.CIDADE {
+H3{
     font-family: Josefin Sans;
     color: var(--sub-titulo);
     padding: 40 0;

@@ -28,14 +28,14 @@ header {
     overflow: hidden;
 }
 
-h2 {
+CAMPO {
     font-family: Josefin Sans;
     color: var(--sub-titulo);
     padding: 25 0;
 
 }
 
-h3 {
+CIDADE {
     font-family: Josefin Sans;
     color: var(--sub-titulo);
     padding: 25 0;

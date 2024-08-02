@@ -35,6 +35,9 @@ h3{
     color: var(--sub-titulo);
     padding: 40 0;
     text-align: left;
+}
 
-
+p {
+    color: var(--texto);
+    text-align: justify;
 }

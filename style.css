@@ -26,10 +26,11 @@ header {
     width: 80%;
     margin: auto;
     overflow: hidden;
+
 }
 
-CAMPO {
-    font-family: Josefin Sans;
+CAMPO{
+font-family: Josefin Sans;
     color: var(--sub-titulo);
     padding: 25 0;
 

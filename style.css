@@ -4,6 +4,7 @@
 :root {
     --cor-de-fundo: #363636;
     --titulo: #2b0404;
+    --sub-titulo: #4e1d1d;
     --texto: #DCDCDC;
 }
 
@@ -26,29 +27,18 @@ header {
     margin: auto;
     overflow: hidden;
 }
-.city {
-    float: left;
-    width: 50%;
-    padding: 20px;
-    box-sizing: border-box;
+
+h2 {
+    font-family: Josefin Sans;
+    color: var(--sub-titulo);
+    padding: 25 0;
+
 }
-.country {
-    float: left;
-    width: 50%;
-    padding: 20px;
-    box-sizing: border-box;
-}
-.clearfix::after {
-    content: "";
-    display: table;
-    clear: both;
-}
-footer {
-    background: #a03a3a;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+
+h3 {
+    font-family: Josefin Sans;
+    color: var(--sub-titulo);
+    padding: 25 0;
+
+
 }

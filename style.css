@@ -22,21 +22,16 @@ header {
     text-align: center;
     font-family: IBM Plex Sans;
 }
-.container {
-    width: 80%;
-    margin: auto;
-    overflow: hidden;
 
-}
 
-h2 {
+.h2 {
     font-family: Josefin Sans;
     color: var(--sub-titulo);
     padding: 40 0;
 
 }
 
-h3 {
+.h3 {
     font-family: Josefin Sans;
     color: var(--sub-titulo);
     padding: 40 0;

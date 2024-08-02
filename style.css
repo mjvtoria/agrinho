@@ -3,7 +3,7 @@
 
 :root {
     --cor-de-fundo: #363636;
-    --titulo: #800000;
+    --titulo: #2b0404;
     --texto: #DCDCDC;
 }
 
@@ -17,8 +17,9 @@ body {
 header {
     background:var(--cor-de-fundo);
     color: var(--titulo);
-    padding: 10px 0;
+    padding: 30px 0;
     text-align: center;
+    font-family: IBM Plex Sans;
 }
 .container {
     width: 80%;

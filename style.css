@@ -17,7 +17,7 @@ body {
 header {
     background:var(--cor-de-fundo);
     color: var(--titulo);
-    padding: 70px 50;
+    padding: 70px 50px;
     text-align: center;
     font-family: IBM Plex Sans;
 }
@@ -26,14 +26,14 @@ header {
 h2{
     font-family: Josefin Sans;
     color: var(--sub-titulo);
-    padding: 40 0;
+    padding: 40px 0;
     text-align: left;
 }
 
 h3{
     font-family: Josefin Sans;
     color: var(--sub-titulo);
-    padding: 40 0;
+    padding: 40px 0;
     text-align: left;
 }
 
